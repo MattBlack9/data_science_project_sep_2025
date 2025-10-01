@@ -30,7 +30,7 @@ Your project will evaluated based on expertise shown in the following areas:
 - Overall coding ability
 
 ## Timeline
-Please send in your results by end of day Monday, October 7th.
+Please send in your results by end of day Monday, October 6th.
 
 ## Questions
 If anything comes up during the process, or you need clarification on any of these steps, please reach out to a Kings Analytics staff member as needed.
